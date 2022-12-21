@@ -10,8 +10,8 @@ class Translation(object):
     FORMAT_SELECTION = "ѕᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇѕɪʀᴇᴅ ғᴏʀᴍᴀᴛ: <ᴀ ʜʀᴇғ='{}'>ғɪʟᴇ ѕɪᴢᴇ ᴍɪɢʜᴛ ʙᴇ ᴀᴘᴘʀᴏхɪᴍᴀᴛᴇ</ᴀ> \ɴɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ѕᴇᴛ ᴄᴜѕᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ, ѕᴇɴᴅ ᴘʜᴏᴛᴏ ʙᴇғᴏʀᴇ ᴏʀ ǫᴜɪᴄᴋʟʏ ᴀғᴛᴇʀ ᴛᴀᴘᴘɪɴɢ ᴏɴ ᴀɴʏ ᴏғ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴѕ.\ɴʏᴏᴜ ᴄᴀɴ ᴜѕᴇ /ᴅᴇʟᴇᴛᴇᴛʜᴜᴍʙɴᴀɪʟ ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴀᴜᴛᴏ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ."
     SET_CUSTOM_USERNAME_PASSWORD = """ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴘʀᴇᴍɪᴜᴍ ᴠɪᴅᴇᴏѕ, ᴘʀᴏᴠɪᴅᴇ ɪɴ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ ғᴏʀᴍᴀᴛ:
 ᴜʀʟ | ғɪʟᴇɴᴀᴍᴇ | ᴜѕᴇʀɴᴀᴍᴇ | ᴘᴀѕѕᴡᴏʀᴅ"""
-    DOWNLOAD_START = "ðŸ“¥Dᴏᴡɴʟᴏᴀᴅɪɴɢ..."
-    UPLOAD_START = "ðŸ“¤Uᴘʟᴏᴀᴅɪɴɢ..."
+    DOWNLOAD_START = "Dᴏᴡɴʟᴏᴀᴅɪɴɢ..."
+    UPLOAD_START = "Uᴘʟᴏᴀᴅɪɴɢ..."
     RCHD_TG_API_LIMIT = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Uᴘʟᴏᴀᴅᴇᴅ Sᴜᴄᴄᴇѕғᴜʟʟʏ**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} seconds.\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} seconds"
